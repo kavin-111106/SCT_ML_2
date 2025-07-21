@@ -10,10 +10,12 @@ This project performs customer segmentation using the K-Means clustering algorit
 
 ## Project Structure
 Mall-Customer-Segmentation/
-~ data(folder) -- Mall_customers.csv
-~ mall_customer_segmentation.ipynb
-~ README.md
-~ requirements.txt
+│
+├── data/
+│ └── Mall_Customers.csv
+├── mall_customer_segmentation.ipynb
+├── README.md
+└── requirements.txt
 
 
 
